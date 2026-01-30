@@ -9,8 +9,6 @@ const movieHeader: string[] = [
   'Rate',
 ];
 
-const searchCells: number[] = [0, 1, 2];
-
 const moviesc = movies;
 
 populateList(moviesc);
